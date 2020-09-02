@@ -1,4 +1,4 @@
-# neflix
+# netflix
 Recriando a interface da Netflix
 
 Este site é apenas uma replicação da Netflix com o intuito de treinar desenvolvimento Web.
